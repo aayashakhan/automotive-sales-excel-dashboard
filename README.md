@@ -20,7 +20,7 @@ This project analyses automotive dealership sales and profit by vehicle model, d
 - **Total profit:** $29,968,866.25
 - Charts compare quantity sold by model, total profit by model, and total profit by dealer.
 
-<!-- Add the final approved dashboard screenshot here, e.g. ![Sales performance dashboard](dashboards/sales-overview.png) -->
+![Automotive Sales Performance Dashboard](dashboards/sales-overview.png)
 
 ## Dashboard 2 — Trends & Dealer Analysis
 
@@ -29,7 +29,7 @@ This project analyses automotive dealership sales and profit by vehicle model, d
 - **Year-over-year change:** −2.46%
 - Charts compare monthly profit between years and annual profit by dealer.
 
-<!-- Add the final approved dashboard screenshot here, e.g. ![Trends and dealer dashboard](dashboards/trends-dealer-analysis.png) -->
+![Automotive Trends and Dealer Analysis Dashboard](dashboards/trends-dealer-analysis.png)
 
 ## Key findings
 
@@ -87,6 +87,13 @@ The Excel dataset's exact correspondence to the original catalog download has no
 **Guided IBM/Coursera exercises:** Created Excel visualizations and dashboards following course instructions.
 
 **Additional portfolio work:** Expanded the analysis with independently practised PivotTables, consolidated dashboards, profit-per-vehicle metrics, monthly and annual profitability comparisons, reporting validation, and documented business insights.
-## Files
 
-The final workbook and dashboard images will be added after checking the course/data licence and confirming that the final exported files display correctly.
+## Project Files
+
+The repository contains:
+
+- [Sales Performance Dashboard](dashboards/sales-overview.png) — Visualizes vehicle sales, model profitability, and dealer performance.
+- [Trends & Dealer Analysis Dashboard](dashboards/trends-dealer-analysis.png) — Compares monthly profit, annual performance, and dealer profitability between 2018 and 2019.
+- `README.md` — Documents project objectives, methodology, validation checks, business insights, and data attribution.
+
+**Note:** The complete Excel workbook contains IBM/Coursera educational data and is not publicly included while redistribution permissions are being verified.
