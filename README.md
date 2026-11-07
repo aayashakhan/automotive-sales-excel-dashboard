@@ -54,12 +54,39 @@ This project analyses automotive dealership sales and profit by vehicle model, d
 - Available fields cannot establish the causal reasons for differences in profitability, nor reveal selling prices, costs, marketing effects, or profit-margin percentages.
 - The two dashboards summarise historical sample/course data and do not represent live business reporting.
 
-## Learning context and attribution
+## Learning Context and Data Attribution
 
-I personally completed the original charts and dashboard exercises by following IBM/Coursera instructional videos and lab steps. I subsequently revised the Excel work and expanded the analysis, validation, interpretation, and dashboard presentation as a portfolio learning project. This is coursework and independent practice, not paid commercial analytics experience.
+This project originated from IBM's **Data Visualization and Dashboards with Excel and Cognos** course on Coursera.
 
-**Dataset/course source:** Add the exact IBM/Coursera course and source links before publication.
+I personally completed the original Excel charting, PivotTable, and dashboard exercises using the instructional videos and hands-on lab guidance.
 
+I subsequently revisited the project and extended it through additional PivotTable analysis, two consolidated Excel dashboards, KPI calculations, data validation, year-over-year comparisons, and business interpretation.
+
+This project represents guided coursework followed by additional hands-on analytical practice, rather than professional employment experience.
+
+### Course and Dataset Sources
+
+**IBM/Coursera Course:**
+
+[Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos)
+
+**Excel Dataset:**
+
+Automotive dealership sales dataset provided through IBM/Coursera Excel laboratory exercises.
+
+**Original Automotive Sample Data:**
+
+[IBM Accelerator Catalog — Automotive Industry Sample Data](https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00142&id=i22898C2A4DD748F79E0FC2BD017F4FE8&objRef=i22898C2A4DD748F79E0FC2BD017F4FE8&action=run&format=HTML)
+
+IBM's Cognos assignment documentation identifies the Accelerator Catalog as the original source family and states that a modified subset of the sample data is used in the coursework.
+
+The Excel dataset's exact correspondence to the original catalog download has not been independently verified.
+
+### Project Contributions
+
+**Guided IBM/Coursera exercises:** Created Excel visualizations and dashboards following course instructions.
+
+**Additional portfolio work:** Expanded the analysis with independently practised PivotTables, consolidated dashboards, profit-per-vehicle metrics, monthly and annual profitability comparisons, reporting validation, and documented business insights.
 ## Files
 
 The final workbook and dashboard images will be added after checking the course/data licence and confirming that the final exported files display correctly.
